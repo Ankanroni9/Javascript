@@ -1,2 +1,2 @@
 # Javascript
-all js code
+JS codes
